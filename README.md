@@ -10,7 +10,7 @@ Translated:
 
 
 ## Getting Started
-You must have an OCI account.  [Click here](https://www.oracle.com/cloud/free/?source=:ow:o:s:nav::DevoGetStarted&intcmp=:ow:o:s:nav::DevoGetStarted) to create a new cloud account.
+You must have an OCI account.  [Click here](https://www.oracle.com/cloud/free/?source=:ex:tb:::::WWMK211203P00003&SC=:ex:tb:::::WWMK211203P00003&pcode=WWMK211203P00003) to create a new cloud account.
 
 Clone this repo:
 
@@ -29,10 +29,10 @@ node
 var ps = require('pirate-speak');
 console.log(ps.translate('Hello world!'));
 .exit
-
+```
 
 ### Prerequisites
-You must have an OCI account.  [Click here](https://www.oracle.com/cloud/free/?source=:ow:o:s:nav::DevoGetStarted&intcmp=:ow:o:s:nav::DevoGetStarted) to create a new cloud account.
+You must have an OCI account.  [Click here](https://www.oracle.com/cloud/free/?source=:ex:tb:::::WWMK211203P00003&SC=:ex:tb:::::WWMK211203P00003&pcode=WWMK211203P00003) to create a new cloud account.
 
 ## Notes/Issues
 None at this time.
